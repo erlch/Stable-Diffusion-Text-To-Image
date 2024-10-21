@@ -1,0 +1,2 @@
+# Text-to-Image Generator using Stable Diffusion
+This project leverages the [Stable Diffusion v1.4 model](https://huggingface.co/CompVis/stable-diffusion-v1-4) from Hugging Face to generate high-quality images from textual descriptions. It provides an easy-to-use interface through Gradio for creating images based on user-provided prompts. The model is also optimized to run on GPU for faster image generation, with customizable settings for inference steps and image resolution.
